@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bin-08-01/Hand-down-bro/static/css/main.f3f4d6fb.css",
+    "main.js": "/Bin-08-01/Hand-down-bro/static/js/main.19b7c76e.js",
+    "static/media/sound.mp3": "/Bin-08-01/Hand-down-bro/static/media/sound.b881ffed9e325fe5525c.mp3",
+    "index.html": "/Bin-08-01/Hand-down-bro/index.html",
+    "main.f3f4d6fb.css.map": "/Bin-08-01/Hand-down-bro/static/css/main.f3f4d6fb.css.map",
+    "main.19b7c76e.js.map": "/Bin-08-01/Hand-down-bro/static/js/main.19b7c76e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f4d6fb.css",
+    "static/js/main.19b7c76e.js"
+  ]
+}
